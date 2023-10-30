@@ -9,4 +9,3 @@ output:
 
 # This is yinan's awesome website
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
